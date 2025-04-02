@@ -13,17 +13,6 @@ h2,
     color: #FFFFFF;
 }
 
-
-.cover__description {
-    font-weight: 400;
-    font-size: 22px;
-}
-
-.bet-button {
-    font-weight: 500;
-    font-size: 22px;
-}
-
 .menu__link_header,
 .address__header a,
 .address__footer a,
@@ -145,6 +134,8 @@ h2 {
     padding-left: 50px;
     padding-right: 50px;
     padding-bottom: 50px;
+    font-weight: 400;
+    font-size: 22px;
 }
 
 .cover__title__description {
@@ -158,6 +149,8 @@ h2 {
     min-width: 256px;
     height: 51px;
     text-align: center;
+    font-weight: 500;
+    font-size: 22px;
 }
 
 .no-letter-spacing {
